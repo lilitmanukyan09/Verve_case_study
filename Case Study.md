@@ -1,3 +1,3 @@
 # Verve case study
 
-![Datascience] (/Lilit/Work/Personal projects/Verve_case_study/data.jpg)
+![Data_science] (https://colorstonemarketing.com/wp-content/uploads/2020/01/digital-marketing-services-header-image.png)
