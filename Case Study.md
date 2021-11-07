@@ -1,3 +1,3 @@
 # Verve case study
 
-![Data Sccience](https://unsplash.com/photos/1K6IQsQbizI)
+![Data Sccience](C:\Users\Lilit\Lilit\Work\Personal projects\Verve_case_study\data.jpg)
