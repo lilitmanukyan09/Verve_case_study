@@ -1,3 +1,3 @@
 # Verve case study
 
-![Datascience] (C:\Users\Lilit\Lilit\Work\Personal projects\Verve_case_study\data.jpg)
+![Datascience] (/Lilit/Work/Personal projects/Verve_case_study/data.jpg)
