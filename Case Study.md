@@ -1,6 +1,6 @@
 # Verve case study
 
-![Data_science](http://recoverydecisionscience.com/wp-content/uploads/2016/03/RDSDataProductsWebHeader.jpg)
+![Data_science](https://unsplash.com/photos/1K6IQsQbizI)
 
 ### Potential problems that may arise with the dataset while building the Machine Learning algorithm
   * **device_name:** Device name could be a good predictor of the gender if we have a list of all names in the world/target countries with their corresponding genders. However, the field of device name has 60% of the values missing, which makes it difficult to fill the missing data, as it is not numeric and couldn’t be filled with statistical techniques like median, mean, mode etc.
